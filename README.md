@@ -1,7 +1,7 @@
 # Exercise-2.1-matlab-simulation-
 透過matlab模擬解出答案
 
-結果在 Command Window
+結果顯示在 Command Window
 
 Estimated path loss exponent γ = -3.934
 
